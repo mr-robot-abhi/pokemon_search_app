@@ -40,17 +40,17 @@ A responsive web application for searching and viewing details of Pokémon, buil
 
 1. Clone the repository:
    
-   **git clone https://github.com/mr-robot-abhi/pokemon-search-app.git**
+**git clone https://github.com/mr-robot-abhi/pokemon-search-app.git**
    
-Navigate to the project directory:
-
+2. Navigate to the project directory:
 
 **cd pokemon-search-app**
-Install the dependencies:
 
+3. Install the dependencies:
 
 **npm install**
-Start the development server:
+
+4. Start the development server:
 
 **npm run dev**
 
